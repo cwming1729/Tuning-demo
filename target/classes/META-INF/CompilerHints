@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,tuning/TuningDemo1.testStrategyA
+inline,tuning/TuningDemo1.testStrategyB
+inline,tuning/TuningDemo1.testStrategyC
+inline,tuning/TuningDemo1.testStrategyD
+inline,tuning/TuningDemo4.testCodePointAtNew
+inline,tuning/TuningDemo4.testCodePointAtOld

@@ -1,0 +1,6 @@
+JMH S 18 tuning.TuningDemo1 S 54 tuning.jmh_generated.TuningDemo1_testStrategyA_jmhTest S 13 testStrategyA S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 18 tuning.TuningDemo1 S 54 tuning.jmh_generated.TuningDemo1_testStrategyB_jmhTest S 13 testStrategyB S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 18 tuning.TuningDemo1 S 54 tuning.jmh_generated.TuningDemo1_testStrategyC_jmhTest S 13 testStrategyC S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 18 tuning.TuningDemo1 S 54 tuning.jmh_generated.TuningDemo1_testStrategyD_jmhTest S 13 testStrategyD S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 18 tuning.TuningDemo4 S 59 tuning.jmh_generated.TuningDemo4_testCodePointAtNew_jmhTest S 18 testCodePointAtNew S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 18 tuning.TuningDemo4 S 59 tuning.jmh_generated.TuningDemo4_testCodePointAtOld_jmhTest S 18 testCodePointAtOld S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
